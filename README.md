@@ -34,3 +34,12 @@ Here are the main views of the Excel dashboard:
 2. Go to **Dashboard** sheet
 3. Use slicers to filter by region/education/age group
 
+**If Download gives you an HTML file instead** (rare GitHub glitch):
+- Right-click the **Raw** button → "Save link as..." → name it `Bike Sales.xlsx`
+- Or download the whole repository as ZIP:
+  1. Click green **Code** button
+  2. Choose **Download ZIP**
+  3. Extract → open `Bike Sales.xlsx`
+
+Go to **Dashboard** sheet and use the slicers to explore!
+
