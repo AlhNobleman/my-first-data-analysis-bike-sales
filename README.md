@@ -15,11 +15,10 @@ Excel • Pivot Tables • Charts • Data Cleaning
 Here are the main views of the Excel dashboard:
 
 ![Bike Buyer Dashboard Overview](Screenshots/DashBoard.png)
-
 *Main dashboard showing key insights by income, age, gender and commute*
 
-![Pivot Table Summary](Screenshots/Pivot%20table.png)
 
+![Pivot Table Summary](Screenshots/Pivot%20table.png)
 *Pivot table view with purchase counts and averages*
 
 
