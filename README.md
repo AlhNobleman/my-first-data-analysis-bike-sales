@@ -12,10 +12,15 @@ Excel • Pivot Tables • Charts • Data Cleaning
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](https://github.com/user-attachments/assets/d5879dd2-2a56-4279-8097-070d71a7f1ad)
+Here are the main views of the Excel dashboard:
 
-![Pivot Table](https://github.com/user-attachments/assets/902877db-df44-1a85-203e9ca8e678)
+![Bike Buyer Dashboard Overview](Screenshots/DashBoard.png)
 
+*Main dashboard showing key insights by income, age, gender and commute*
+
+![Pivot Table Summary](Screenshots/Pivot%20table.png)
+
+*Pivot table view with purchase counts and averages*
 
 
 ## Quick Findings Summary
