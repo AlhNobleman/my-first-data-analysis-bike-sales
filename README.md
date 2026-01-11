@@ -12,9 +12,9 @@ Excel • Pivot Tables • Charts • Data Cleaning
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](<img width="1366" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/d5879dd2-2a56-4279-8009-707e9d71af7d" />)
+![Bike Sales Dashboard](github.com/user-attachments/assets/d5879dd2-2a56-4279-8009-707e9d71af7d)
 
-![Pivot table](<img width="1366" height="768" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/902877de-dbf4-4f41-88a5-203eca98e670" />)
+![Pivot table](github.com/user-attachments/assets/902877de-dbf4-4f41-88a5-203eca98e670)
 
 
 ## Quick Findings Summary
